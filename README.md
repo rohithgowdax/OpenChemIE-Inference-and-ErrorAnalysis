@@ -28,6 +28,8 @@ This project implements an end-to-end machine learning pipeline for:
 └── .env                          # Environment configuration (AWS credentials)
 ```
 
+Drive link for visual Comparision [https://drive.google.com/drive/folders/1sBd11etNsFpnNFKHu1MQw5KZTeP33x-Z?usp=sharing]
+
 ## Features
 
 ### Data Pipeline (`data_pipeline.py`)
