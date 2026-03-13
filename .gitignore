@@ -1,0 +1,105 @@
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.conda/
+conda-env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+
+# OS Files
+Thumbs.db
+.DS_Store
+*.log
+
+# Data & Large Files
+*.csv
+results/
+output/
+logs/
+*.pkl
+*.pickle
+*.joblib
+
+# AWS & Credentials
+*.pem
+*.key
+credentials.json
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Node (if applicable)
+node_modules/
+package-lock.json
+
+# VS Code specific
+.vscode/settings.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Project-specific
+*.pth
+model_checkpoints/
+checkpoints/
+sample_cdxml_files/
+correct/
+images/
+incorrect/
