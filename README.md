@@ -28,7 +28,14 @@ This project implements an end-to-end machine learning pipeline for:
 └── .env                          # Environment configuration (AWS credentials)
 ```
 
-Drive link for visual Comparision [https://drive.google.com/drive/folders/1sBd11etNsFpnNFKHu1MQw5KZTeP33x-Z?usp=sharing]
+Please check the Drive for Visual Comparision [https://drive.google.com/drive/folders/1sBd11etNsFpnNFKHu1MQw5KZTeP33x-Z?usp=sharing]
+
+Each image in Correct/incorrect Directory has 3 structures
+Where:
+
+1. Original: Image generated using .cdxml files
+2. Target : Image rendered using smiles extracted from .cdxml files
+3. Prediction : Image rendered using smile given by OpenChemIE
 
 ## Features
 
